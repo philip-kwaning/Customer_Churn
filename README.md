@@ -46,10 +46,10 @@ H1: The tenure of customers has no significant impact on churn.
    - Cleaning and preparing the data for analysis is a crucial step. This involves handling missing values, standardizing formats, and ensuring data quality.
 
 3. **Exploratory Data Analysis (EDA):**
-   - EDA involves exploring the data to identify patterns, trends, and potential correlations. Visualization tools may be employed to gain a preliminary understanding of the dataset.
+   - EDA involves exploring the data to identify patterns, trends, and potential correlations. Visualization tools were employed to gain a preliminary understanding of the dataset.
 
 4. **Feature Selection:**
-   - Identify key features like tenure and internet service influence customer churn. 
+   - Key features like tenure and internet service influence customer churn. 
 
 5. **Predictive Modeling:**
    - Common algorithms like logistic regression, and  decision trees were implemented, evaluated and selected the most suitable model based on performance metrics.
@@ -58,7 +58,7 @@ H1: The tenure of customers has no significant impact on churn.
    - Thorough investigation to understand the root causes of customer churn must be done. This may involve surveys, interviews with departing customers, and an in-depth analysis of customer service data.
 
 7. **Implementation of Retention Strategies:**
-    -  Based on the insights gained from the analysis retention strategies must be developed and implemented. This may include personalized communication, enhanced customer experience initiatives, and tailored incentives.
+    -  Based on the insights gained from the analysis, retention strategies must be developed and implemented. This may include personalized communication, enhanced customer experience initiatives, and tailored incentives.
 
 
 ## Dependencies:
@@ -70,7 +70,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZGM5NjYyMzMtODUzZS00MTU5LTk5M2EtN2IyN2M3N
 
 
 ## License:
-
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 
